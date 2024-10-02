@@ -1,0 +1,19 @@
+.navigation {
+  padding: 0 8px;
+  display: flex;
+  height: 72px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navigation ul {
+  display: flex;
+  list-style-type: none;
+  gap: 24px;
+  font-weight: 500;
+}
+
+.logo img {
+  width: 40px; /* Adjust the logo size as needed */
+  height: auto; /* Maintain aspect ratio */
+}
